@@ -1,0 +1,13 @@
+/Users/misha/RiderProjects/KPO/HW/KPOBHW1/App/Core/bin/Debug/net9.0/Core.deps.json
+/Users/misha/RiderProjects/KPO/HW/KPOBHW1/App/Core/bin/Debug/net9.0/Core.dll
+/Users/misha/RiderProjects/KPO/HW/KPOBHW1/App/Core/bin/Debug/net9.0/Core.pdb
+/Users/misha/RiderProjects/KPO/HW/KPOBHW1/App/Core/obj/Debug/net9.0/Core.csproj.AssemblyReference.cache
+/Users/misha/RiderProjects/KPO/HW/KPOBHW1/App/Core/obj/Debug/net9.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/misha/RiderProjects/KPO/HW/KPOBHW1/App/Core/obj/Debug/net9.0/Core.AssemblyInfoInputs.cache
+/Users/misha/RiderProjects/KPO/HW/KPOBHW1/App/Core/obj/Debug/net9.0/Core.AssemblyInfo.cs
+/Users/misha/RiderProjects/KPO/HW/KPOBHW1/App/Core/obj/Debug/net9.0/Core.csproj.CoreCompileInputs.cache
+/Users/misha/RiderProjects/KPO/HW/KPOBHW1/App/Core/obj/Debug/net9.0/Core.sourcelink.json
+/Users/misha/RiderProjects/KPO/HW/KPOBHW1/App/Core/obj/Debug/net9.0/Core.dll
+/Users/misha/RiderProjects/KPO/HW/KPOBHW1/App/Core/obj/Debug/net9.0/refint/Core.dll
+/Users/misha/RiderProjects/KPO/HW/KPOBHW1/App/Core/obj/Debug/net9.0/Core.pdb
+/Users/misha/RiderProjects/KPO/HW/KPOBHW1/App/Core/obj/Debug/net9.0/ref/Core.dll
