@@ -30,7 +30,7 @@
 1. **Клонируйте репозиторий (если необходимо):**
    ```
    git clone https://github.com/zxchelik/KPOBHW1.git
-   cd KPOBHW1
+   cd KPOBHW1/App
    ```
 
 2. **Сборка проекта:**
